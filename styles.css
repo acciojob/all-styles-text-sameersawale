@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.container {
+  width: 200px;
+  background-color: purple;
+}
+
+/* Set left border color and thickness */
+.left {
+  border-left: 5px solid green;
+}
+
+/* Set padding and font size */
+div {
+  padding: 10px;
+  font-size: 20px;
+}
+
+/* Set heading color */
+h1 {
+  color: white;
+}
